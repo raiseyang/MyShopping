@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageview_goods"
+        android:layout_width="@dimen/mizhe_goods_list_item_image_width"
+        android:layout_height="@dimen/mizhe_goods_list_item_image_height"/>
+
+    <TextView
+        android:id="@+id/textview_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="2"
+        android:padding="1dp"
+        android:textSize="16sp"
+        android:text="222"
+        android:layout_toRightOf="@id/imageview_goods"/>
+
+    <TextView
+        android:id="@+id/textview_price"
+        android:layout_width="wrap_content"
+        android:text="222"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textview_name"
+        android:layout_toRightOf="@id/imageview_goods"/>
+
+</RelativeLayout>

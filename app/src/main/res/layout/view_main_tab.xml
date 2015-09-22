@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <TextView
+        android:id="@+id/textview_mizhe"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/main_tab_height"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="米折"/>
+
+    <TextView
+        android:id="@+id/textview_fanli"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/main_tab_height"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="返利"/>
+
+</merge>
