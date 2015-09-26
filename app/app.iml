@@ -92,11 +92,12 @@
     <orderEntry type="library" exported="" name="gson-2.2.4" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-22.0.0" level="project" />
     <orderEntry type="library" exported="" name="universal-image-loader-1.9.4" level="project" />
-    <orderEntry type="library" exported="" name="jsoup-1.8.3" level="project" />
     <orderEntry type="library" exported="" name="javabase64-1.3.1" level="project" />
+    <orderEntry type="library" exported="" name="jsoup-1.8.3" level="project" />
     <orderEntry type="library" exported="" name="mizhe" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-22.0.0" level="project" />
     <orderEntry type="library" exported="" name="android-async-http-1.4.8" level="project" />
+    <orderEntry type="module" module-name="fanlilibrary" exported="" />
     <orderEntry type="module" module-name="library_indicator" exported="" />
   </component>
 </module>
