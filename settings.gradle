@@ -1,1 +1,1 @@
-include ':app',':library_indicator', ':fanlilibrary'
+include ':app',':library_indicator', ':fanlilibrary', ':testjavalib', ':mizhelibrary'
