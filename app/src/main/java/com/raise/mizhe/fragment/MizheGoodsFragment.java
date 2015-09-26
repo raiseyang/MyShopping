@@ -12,15 +12,15 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.mizhe.model.Category;
-import com.mizhe.model.Goods;
+import com.example.mizhelibrary.model.Category;
+import com.example.mizhelibrary.model.Goods;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.raise.App;
 import com.raise.fragment.BaseFragment;
 import com.raise.mizhe.adapter.CustomAdapter;
 import com.raise.mizhe.service.WebService;
 import com.raise.mizhe.service.WebServiceCallBack;
-import com.raise.paginglistview.PagingListView;
+import com.raise.view.paginglistview.PagingListView;
 import com.raise.wind.myshopping.R;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.mizhe.model;
+package com.example.mizhelibrary.model;
 
 import java.io.Serializable;
 

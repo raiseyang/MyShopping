@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.astuetz.PagerSlidingTabStrip;
-import com.mizhe.model.Category;
+import com.example.mizhelibrary.model.Category;
 import com.raise.fragment.BaseFragment;
 import com.raise.mizhe.data.MizheDataManager;
 import com.raise.wind.myshopping.R;

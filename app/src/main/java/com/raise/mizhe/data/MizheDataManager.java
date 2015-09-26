@@ -1,6 +1,6 @@
 package com.raise.mizhe.data;
 
-import com.mizhe.model.Category;
+import com.example.mizhelibrary.model.Category;
 
 import java.util.List;
 
