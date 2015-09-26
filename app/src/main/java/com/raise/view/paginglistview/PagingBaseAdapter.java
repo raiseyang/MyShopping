@@ -1,4 +1,4 @@
-package com.raise.paginglistview;
+package com.raise.view.paginglistview;
 
 import android.widget.BaseAdapter;
 

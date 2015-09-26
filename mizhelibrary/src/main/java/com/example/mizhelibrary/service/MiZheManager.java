@@ -1,7 +1,7 @@
-package com.mizhe.service;
+package com.example.mizhelibrary.service;
 
-import com.mizhe.model.Category;
-import com.mizhe.model.Goods;
+import com.example.mizhelibrary.model.Category;
+import com.example.mizhelibrary.model.Goods;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

@@ -8,7 +8,7 @@
 /library_indicator
 /testjavalib
 *.iml
-
+.idea/
 # Built application files
 *.apk
 *.ap_

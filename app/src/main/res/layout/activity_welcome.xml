@@ -4,9 +4,10 @@
               android:layout_height="match_parent"
               android:orientation="vertical">
 
-    <ProgressBar
-        style="@android:style/Widget.DeviceDefault.ProgressBar"
+    <TextView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_gravity="center"
+        android:text="欢迎来到购物中心"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>

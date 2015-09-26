@@ -4,9 +4,9 @@ import android.content.Context;
 import android.os.Handler;
 import android.util.Log;
 
-import com.mizhe.model.Category;
-import com.mizhe.model.Goods;
-import com.mizhe.service.MiZheManager;
+import com.example.mizhelibrary.model.Category;
+import com.example.mizhelibrary.model.Goods;
+import com.example.mizhelibrary.service.MiZheManager;
 
 import java.util.List;
 
